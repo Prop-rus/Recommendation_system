@@ -7,6 +7,3 @@
  - Кластеризация фильмов на основе k-mean
  - рассмотрены методы для применения нейронных сетей
 
-ссылки на наборы данных:
-https://drive.google.com/file/d/1_NLRMmsGAN-vJW5Ht3BtiSQVDA218Ias/view?usp=sharing
-https://drive.google.com/file/d/1CAVDNtuoSz60tSLOviB0yRUI_Df-5-oG/view?usp=sharing
